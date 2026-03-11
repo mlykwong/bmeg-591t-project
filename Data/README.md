@@ -1,0 +1,3 @@
+Data will not be uploaded to Github b/c LFS is annoying...
+Download the files onto your local device with the following links:
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
